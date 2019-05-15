@@ -32,7 +32,7 @@ the file <code>data</code> contains six files:
 
 ##### Following files are generated while running the <code>.py</code> files above.
 
-2. <code>all_reviews_context</code>: saved gendim word2vec model
+2. <code>all_reviews_context</code>: saved gensim word2vec model
 
 3. <code>attr_match_phrs.csv</code>: attractions and their matched phrases with frequences
 
